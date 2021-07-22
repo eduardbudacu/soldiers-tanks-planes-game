@@ -6,6 +6,8 @@ The game play is pretty simple. Both the player and the computer have a 10x10 bo
 
 The implementation includes a graphical interface with a mouse cursor, buttons and menus from the GUI.H library
 
-![Screenshot](./docs/screenshot.png)
+Checkout the demo by clicking the screenshot below
+
+[![Screenshot](./docs/screenshot.png)](https://www.youtube.com/watch?v=JBjk1VoB8t4)
 
  
